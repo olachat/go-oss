@@ -1,3 +1,3 @@
-module github.com/olachat/test-lib-2
+module github.com/olachat/go-oss
 
 go 1.18

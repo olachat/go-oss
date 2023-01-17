@@ -7,31 +7,44 @@ jobs:
   reload:
     runs-on: self-hosted
     steps:
+      - name: Install Go
+        uses: actions/setup-go@v3
+        with:
+          go-version: 1.19
       - name: Checkout Library
         uses: actions/checkout@v3
         with:
-          path: 'lib'
+          path: lib
       - name: Checkout Assets
         uses: actions/checkout@v3
         with:
-          repository: olachat/just-hanging-around
-          token: ${{ secrets.ACTIONS_KEY }}
-          path: 'assets'
+          repository: ${{ vars.ASSETS_REPOSITORY }}
+          ssh-key: ${{ secrets.SSH_PRIVATE_KEY }}
+          path: assets
       - name: Build Internal
         run: |
+          go version;
           cd $GITHUB_WORKSPACE/lib/internal/gen-assets-json-file && go build -o gen-json;
           cd $GITHUB_WORKSPACE/lib/internal/gen-static-assets && go build -o gen-static;
       - name: Generate Assets
         run: |
-          cd $GITHUB_WORKSPACE/assets && $GITHUB_WORKSPACE/lib/internal/gen-assets-json-file/gen-json -i static -o assets.json;
+          cd $GITHUB_WORKSPACE/assets && $GITHUB_WORKSPACE/lib/internal/gen-assets-json-file/gen-json -o assets.json ${{ vars.ASSETS_DIRECTORIES }};
           mv assets.json $GITHUB_WORKSPACE/lib/assets.json;
-          cd $GITHUB_WORKSPACE/lib && internal/gen-static-assets/gen-static -i assets.json -b "https://partying.oss-ap-southeast-1.aliyuncs.com";
-          rm assets.json;
-      - name: Checkout Assets
+          cd $GITHUB_WORKSPACE/lib && internal/gen-static-assets/gen-static -i assets.json -b "${{ vars.ASSETS_BASE_URL }}";
+      - name: Cleanup
+        run: |
+          rm $GITHUB_WORKSPACE/lib/assets.json;
+          rm $GITHUB_WORKSPACE/lib/internal/gen-assets-json-file/gen-json;
+          rm $GITHUB_WORKSPACE/lib/internal/gen-static-assets/gen-static;
+      - name: Commit Library Updates
         run: |
           cd $GITHUB_WORKSPACE/lib;
-          git config user.name github-actions;
-          git config user.email github-actions@github.com;
+          git config user.name "${{ github.actor }}";
+          git config user.email "${{ github.actor_id }}";
           git add .;
-          git commit -m "generated";
-          git push;
+          if [ -z "$(git status --porcelain)" ]; then 
+            echo "no changes";
+          else
+            git commit -m "updated assets";
+            git push;
+          fi;
