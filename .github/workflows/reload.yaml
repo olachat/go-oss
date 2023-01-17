@@ -1,0 +1,37 @@
+name: Reload Library
+run-name: Reload Library
+on:
+  repository_dispatch:
+  workflow_dispatch:
+jobs:
+  reload:
+    runs-on: self-hosted
+    steps:
+      - name: Checkout Library
+        uses: actions/checkout@v3
+        with:
+          path: 'lib'
+      - name: Checkout Assets
+        uses: actions/checkout@v3
+        with:
+          repository: olachat/just-hanging-around
+          token: ${{ secrets.ACTIONS_KEY }}
+          path: 'assets'
+      - name: Build Internal
+        run: |
+          cd $GITHUB_WORKSPACE/lib/internal/gen-assets-json-file && go build -o gen-json;
+          cd $GITHUB_WORKSPACE/lib/internal/gen-static-assets && go build -o gen-static;
+      - name: Generate Assets
+        run: |
+          cd $GITHUB_WORKSPACE/assets && $GITHUB_WORKSPACE/lib/internal/gen-assets-json-file/gen-json -i static -o assets.json;
+          mv assets.json $GITHUB_WORKSPACE/lib/assets.json;
+          cd $GITHUB_WORKSPACE/lib && internal/gen-static-assets/gen-static -i assets.json -b "https://partying.oss-ap-southeast-1.aliyuncs.com";
+          rm assets.json;
+      - name: Checkout Assets
+        run: |
+          cd $GITHUB_WORKSPACE/lib;
+          git config user.name github-actions;
+          git config user.email github-actions@github.com;
+          git add .;
+          git commit -m "generated";
+          git push;
