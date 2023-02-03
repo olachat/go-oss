@@ -137,6 +137,7 @@ const (
 	IcRankBadge2                = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/ic_rank_badge_2.png"
 	IcRankBadge3                = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/ic_rank_badge_3.png"
 	IcRoomFamily                = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/ic_room_family.svg"
+	IcRoomTbox                  = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/ic_room_tbox.png"
 	IcSend                      = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/ic_send.png"
 	IcSilverCrown               = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/ic_silver_crown.png"
 	IcUpdateAppClose            = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/ic_update_app_close.svg"
