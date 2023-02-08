@@ -24,6 +24,7 @@ const (
 	CommodityBoxRed             = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/commodity_box_red.png"
 	CommodityBoxRedV1           = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/commodity_box_red_v1.png"
 	CommodityBoxRedV2           = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/commodity_box_red_v2.png"
+	CommodityBoxRedV3           = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/commodity_box_red_v3.png"
 	ConfettiPopularityAnimated  = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/confetti_popularity_animated.webp"
 	CpLink0                     = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/cp-link-0.webp"
 	CpLink1                     = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/cp-link-1.webp"
