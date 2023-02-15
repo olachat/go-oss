@@ -4,6 +4,8 @@ package oss
 const (
 	GuessQueueModeGuess        = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/draw_guess/guess_queue_mode_guess.webp"
 	GuessQueueModeQueue        = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/draw_guess/guess_queue_mode_queue.webp"
+	GuessStartBgAr             = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/draw_guess/guess_start_bg_ar.webp"
+	GuessStartBgEn             = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/draw_guess/guess_start_bg_en.webp"
 	GuessStartBgForVisitorAr   = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/draw_guess/guess_start_bg_for_visitor_ar.webp"
 	GuessStartBgForVisitorEn   = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/draw_guess/guess_start_bg_for_visitor_en.webp"
 	GuessStartBgForVisitorId   = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/draw_guess/guess_start_bg_for_visitor_id.webp"
@@ -14,4 +16,12 @@ const (
 	GuessStartBgForVisitorVi   = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/draw_guess/guess_start_bg_for_visitor_vi.webp"
 	GuessStartBgForVisitorZhCN = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/draw_guess/guess_start_bg_for_visitor_zh_CN.webp"
 	GuessStartBgForVisitorZhTW = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/draw_guess/guess_start_bg_for_visitor_zh_TW.webp"
+	GuessStartBgId             = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/draw_guess/guess_start_bg_id.webp"
+	GuessStartBgKo             = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/draw_guess/guess_start_bg_ko.webp"
+	GuessStartBgMs             = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/draw_guess/guess_start_bg_ms.webp"
+	GuessStartBgTh             = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/draw_guess/guess_start_bg_th.webp"
+	GuessStartBgTr             = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/draw_guess/guess_start_bg_tr.webp"
+	GuessStartBgVi             = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/draw_guess/guess_start_bg_vi.webp"
+	GuessStartBgZhCN           = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/draw_guess/guess_start_bg_zh_CN.webp"
+	GuessStartBgZhTW           = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/draw_guess/guess_start_bg_zh_TW.webp"
 )
