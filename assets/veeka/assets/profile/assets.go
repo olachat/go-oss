@@ -2,6 +2,7 @@
 package oss
 
 const (
+	FireBg             = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/profile/fire_bg.webp"
 	PopularBackground0 = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/profile/popular_background_0.webp"
 	PopularBackground1 = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/profile/popular_background_1.webp"
 	PopularBackground2 = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/profile/popular_background_2.webp"
