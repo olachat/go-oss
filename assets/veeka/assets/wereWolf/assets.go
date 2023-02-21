@@ -2,8 +2,10 @@
 package oss
 
 const (
+	GoodLose                     = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/were_wolf/good_lose.webp"
 	GoodWin                      = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/were_wolf/good_win.webp"
 	RoleBg                       = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/were_wolf/role_bg.png"
+	WerewolfLose                 = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/were_wolf/werewolf_lose.webp"
 	WerewolfWin                  = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/were_wolf/werewolf_win.webp"
 	WolfGameTurnAwaitOtherAction = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/were_wolf/wolf_game_turn_await_other_action.webp"
 	WolfGameTurnChangePlice      = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/were_wolf/wolf_game_turn_change_plice.webp"
