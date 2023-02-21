@@ -2,5 +2,9 @@
 package oss
 
 const (
-	RoomLiked = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/room_liked.webp"
+	KtvAtmosphereAnimationCall  = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/ktv_atmosphere_animation_call.webp"
+	KtvAtmosphereAnimationHeart = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/ktv_atmosphere_animation_heart.webp"
+	KtvAtmosphereAnimationLike  = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/ktv_atmosphere_animation_like.webp"
+	KtvAtmosphereAnimationLove  = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/ktv_atmosphere_animation_love.webp"
+	RoomLiked                   = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/room_liked.webp"
 )
