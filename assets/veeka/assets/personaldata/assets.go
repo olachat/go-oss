@@ -6,6 +6,7 @@ const (
 	LoveLetterEditorBg          = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/personaldata/love_letter_editor_bg.webp"
 	MatchFastBg                 = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/personaldata/match_fast_bg.webp"
 	ProposeListBg               = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/personaldata/propose_list_bg.webp"
+	PtProfileEditAudio          = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/personaldata/pt_profile_edit_audio.svg"
 	PtProfileEditAudioAnimation = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/personaldata/pt_profile_edit_audio_animation.webp"
 	RingSelectBgTop             = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/personaldata/ring_select_bg_top.png"
 )
