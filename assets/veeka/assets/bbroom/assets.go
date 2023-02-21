@@ -2,6 +2,12 @@
 package oss
 
 const (
+	AuctionSuccessTitleEn       = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/auction_success_title_en.webp"
+	AuctionSuccessTitleId       = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/auction_success_title_id.webp"
+	AuctionSuccessTitleTh       = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/auction_success_title_th.webp"
+	AuctionSuccessTitleVi       = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/auction_success_title_vi.webp"
+	AuctionSuccessTitleZhCN     = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/auction_success_title_zh_CN.webp"
+	AuctionSuccessTitleZhTW     = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/auction_success_title_zh_TW.webp"
 	KtvAtmosphereAnimationCall  = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/ktv_atmosphere_animation_call.webp"
 	KtvAtmosphereAnimationHeart = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/ktv_atmosphere_animation_heart.webp"
 	KtvAtmosphereAnimationLike  = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/ktv_atmosphere_animation_like.webp"
