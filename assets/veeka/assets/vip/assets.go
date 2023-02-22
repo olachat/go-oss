@@ -2,10 +2,24 @@
 package oss
 
 const (
+	AvatarFrameActive           = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/vip/avatar_frame_active.png"
+	AvatarFrameInactive         = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/vip/avatar_frame_inactive.png"
+	BadgeVipActive              = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/vip/badge_vip_active.png"
+	BadgeVipInactive            = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/vip/badge_vip_inactive.png"
 	BgNumLimitedCommodityEntry  = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/vip/bg_num_limited_commodity_entry.webp"
 	BgTimeLimitedCommodityEntry = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/vip/bg_time_limited_commodity_entry.webp"
+	ChatBubbleActive            = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/vip/chat_bubble_active.png"
+	ChatBubbleInactive          = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/vip/chat_bubble_inactive.png"
 	CpRelationshipBgLoveHome    = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/vip/cp_relationship_bg_love_home.webp"
 	CpRelationshipBgLoveLetter1 = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/vip/cp_relationship_bg_love_letter_1.webp"
 	CpRelationshipBgSendInvite  = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/vip/cp_relationship_bg_send_invite.webp"
 	CpRelationshipBgSuccessBack = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/vip/cp_relationship_bg_success_back.webp"
+	CustomerServiceActive       = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/vip/customer_service_active.png"
+	CustomerServiceInactive     = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/vip/customer_service_inactive.png"
+	FamilyActive                = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/vip/family_active.png"
+	FamilyInactive              = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/vip/family_inactive.png"
+	LevelUpBroadcastActive      = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/vip/level_up_broadcast_active.png"
+	LevelUpBroadcastInactive    = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/vip/level_up_broadcast_inactive.png"
+	NicknameIconActive          = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/vip/nickname_icon_active.png"
+	NicknameIconInactive        = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/vip/nickname_icon_inactive.png"
 )
