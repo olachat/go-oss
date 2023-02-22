@@ -30,6 +30,7 @@ const (
 	CpLink1                     = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/cp-link-1.webp"
 	CpLink2                     = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/cp-link-2.webp"
 	CpLink3                     = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/cp-link-3.webp"
+	CpLinkNone                  = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/cp-link-none.webp"
 	CpBlessRankBg               = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/cp_bless_rank_bg.png"
 	CpRelationshipMsgIcon       = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/cp_relationship_msg_icon.png"
 	CutoutsGiraffe              = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/cutouts_giraffe.png"
