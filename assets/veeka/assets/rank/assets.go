@@ -4,5 +4,6 @@ package oss
 const (
 	CharmRankHeaderBg     = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/rank/charm_rank_header_bg.webp"
 	CharmRankHeaderBgDark = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/rank/charm_rank_header_bg_dark.webp"
+	MeetBg                = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/rank/meet_bg.png"
 	Podium                = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/rank/podium.webp"
 )
