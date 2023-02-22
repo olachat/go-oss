@@ -8,6 +8,8 @@ const (
 	AuctionSuccessTitleVi       = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/auction_success_title_vi.webp"
 	AuctionSuccessTitleZhCN     = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/auction_success_title_zh_CN.webp"
 	AuctionSuccessTitleZhTW     = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/auction_success_title_zh_TW.webp"
+	BombReverse                 = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/bomb_reverse.webp"
+	BombReverseAnimation        = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/bomb_reverse_animation.webp"
 	ComboGiftButtonClickAr      = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/combo_gift_button_click_ar.webp"
 	ComboGiftButtonClickEn      = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/combo_gift_button_click_en.webp"
 	ComboGiftButtonClickId      = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/combo_gift_button_click_id.webp"
