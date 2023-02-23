@@ -22,4 +22,10 @@ const (
 	LevelUpBroadcastInactive    = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/vip/level_up_broadcast_inactive.png"
 	NicknameIconActive          = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/vip/nickname_icon_active.png"
 	NicknameIconInactive        = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/vip/nickname_icon_inactive.png"
+	VipIcon1                    = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/vip/vip_icon_1.png"
+	VipIcon2                    = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/vip/vip_icon_2.png"
+	VipIcon3                    = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/vip/vip_icon_3.png"
+	VipIcon4                    = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/vip/vip_icon_4.png"
+	VipIcon5                    = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/vip/vip_icon_5.png"
+	VipIcon6                    = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/vip/vip_icon_6.png"
 )
