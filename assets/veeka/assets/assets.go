@@ -159,6 +159,7 @@ const (
 	IcVisit                     = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/ic_visit.png"
 	IcWhoisspy                  = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/ic_whoisspy.png"
 	ImmersiveThemeNone          = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/immersive_theme_none.webp"
+	InRoomStatus                = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/in_room_status.webp"
 	LeftCoin                    = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/left_coin.webp"
 	Logo                        = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/logo.png"
 	LogoNew                     = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/logo_new.png"
