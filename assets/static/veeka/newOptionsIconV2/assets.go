@@ -2,6 +2,7 @@
 package oss
 
 const (
+	Cocos2048         = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/new_options_icon_v2/cocos-2048.png"
 	CocosButt         = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/new_options_icon_v2/cocos-butt.png"
 	GuessVeeka        = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/new_options_icon_v2/guess_veeka.png"
 	LayaMahjongTw     = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/new_options_icon_v2/laya-mahjong-tw.png"
