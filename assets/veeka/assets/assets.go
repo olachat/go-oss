@@ -20,6 +20,7 @@ const (
 	ChatIntimacyHeart           = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/chat-intimacy-heart.png"
 	ChatIntimacyLink            = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/chat-intimacy-link.png"
 	ChatMatchEffect             = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/chat_match_effect.mp4"
+	ChatMatchHeart              = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/chat_match_heart.webp"
 	CoinNew0                    = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/coin_new_0.gif"
 	CoinNew1                    = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/coin_new_1.gif"
 	CommodityBoxRed             = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/commodity_box_red.png"
