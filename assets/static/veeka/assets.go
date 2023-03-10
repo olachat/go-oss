@@ -26,5 +26,6 @@ const (
 	OnlineHiddenDetail                = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/online_hidden_detail.png"
 	Under                             = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/under.png"
 	Video                             = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/video.png"
+	WishPoolBanner                    = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/wish_pool_banner.png"
 	Wolf                              = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/wolf.png"
 )
