@@ -3,7 +3,10 @@ package oss
 
 const (
 	Cocos2048         = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/new_options_icon_v2/cocos-2048.png"
+	Cocos2048New      = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/new_options_icon_v2/cocos-2048_new.png"
 	CocosButt         = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/new_options_icon_v2/cocos-butt.png"
+	CocosButtNew      = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/new_options_icon_v2/cocos-butt_new.png"
+	CocosMonopolyNew  = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/new_options_icon_v2/cocos-monopoly_new.png"
 	GuessVeeka        = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/new_options_icon_v2/guess_veeka.png"
 	LayaMahjongTw     = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/new_options_icon_v2/laya-mahjong-tw.png"
 	LayaGameBigtwo    = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/new_options_icon_v2/laya_game_bigtwo.png"
