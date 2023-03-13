@@ -3,6 +3,7 @@ package oss
 
 const (
 	ActivenessSendRoomPicture   = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/activeness_send_room_picture.png"
+	AnonymousMatchEffect        = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/anonymous_match_effect.mp4"
 	AppRatingBg                 = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/app_rating_bg.webp"
 	AppUpdateBg                 = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/app_update_bg.png"
 	BadgeFamilyLevel1           = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/badge_family_level_1.png"
