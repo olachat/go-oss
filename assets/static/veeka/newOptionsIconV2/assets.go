@@ -8,6 +8,7 @@ const (
 	CocosButtNew         = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/new_options_icon_v2/cocos-butt_new.png"
 	CocosMonopolyNew     = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/new_options_icon_v2/cocos-monopoly_new.png"
 	GuessVeeka           = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/new_options_icon_v2/guess_veeka.png"
+	LayaBombCat          = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/new_options_icon_v2/laya-bomb-cat.png"
 	LayaMahjongTw        = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/new_options_icon_v2/laya-mahjong-tw.png"
 	LayaGame2048         = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/new_options_icon_v2/laya_game_2048.png"
 	LayaGame2048New      = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/new_options_icon_v2/laya_game_2048_new.png"
