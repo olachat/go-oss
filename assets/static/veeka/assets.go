@@ -28,4 +28,5 @@ const (
 	Video                             = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/video.png"
 	WishPoolBanner                    = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/wish_pool_banner.png"
 	Wolf                              = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/wolf.png"
+	ZodiacEntryImg                    = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/zodiac_entry_img.png"
 )
