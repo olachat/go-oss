@@ -11,6 +11,7 @@ const (
 	BadgeFamilyLevel3           = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/badge_family_level_3.png"
 	BadgeFamilyLevel4           = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/badge_family_level_4.png"
 	BadgeFamilyLevel5           = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/badge_family_level_5.png"
+	BestCpPkEventInvitationCn   = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/best_cp_pk_event_invitation_cn.png"
 	BgGlow                      = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bg_glow.webp"
 	BgMatchCard                 = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bg_match_card.png"
 	BgSendInvite                = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bg_send_invite.webp"
