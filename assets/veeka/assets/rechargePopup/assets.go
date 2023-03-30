@@ -7,7 +7,9 @@ const (
 	Type1OldGiftIconBG = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/recharge_popup/type1_old_gift_icon_BG.webp"
 	Type2OldGiftIconBG = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/recharge_popup/type2_old_gift_icon_BG.webp"
 	Type3Banner        = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/recharge_popup/type3_banner.webp"
+	Type3BannerCoin    = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/recharge_popup/type3_banner_coin.webp"
 	Type3GiftIconBG    = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/recharge_popup/type3_gift_icon_BG.webp"
 	Type3Header        = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/recharge_popup/type3_header.webp"
+	Type3HeaderCoin    = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/recharge_popup/type3_header_coin.webp"
 	Type3OldGiftIconBG = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/recharge_popup/type3_old_gift_icon_BG.webp"
 )
