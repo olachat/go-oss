@@ -28,6 +28,7 @@ const (
 	ComboGiftButtonClickZhCN    = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/combo_gift_button_click_zh_CN.webp"
 	ComboGiftButtonClickZhTW    = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/combo_gift_button_click_zh_TW.webp"
 	FansGroupIcon               = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/fans_group_icon.webp"
+	FreeGiftDialogBg            = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/free_gift_dialog_bg.webp"
 	GpkResultTitleEn            = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/gpk_result_title_en.webp"
 	GpkResultTitleId            = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/gpk_result_title_id.webp"
 	GpkResultTitleTh            = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/gpk_result_title_th.webp"
