@@ -26,6 +26,7 @@ const (
 	NewEmperor9               = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/nobility/new_emperor_9.webp"
 	NewKing8                  = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/nobility/new_king_8.webp"
 	NewKnight1                = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/nobility/new_knight_1.webp"
+	NewKnight1Bg              = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/nobility/new_knight_1_bg.png"
 	NewMarquis5               = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/nobility/new_marquis_5.webp"
 	NewPrince7                = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/nobility/new_prince_7.webp"
 	NewViscount3              = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/nobility/new_viscount_3.webp"
