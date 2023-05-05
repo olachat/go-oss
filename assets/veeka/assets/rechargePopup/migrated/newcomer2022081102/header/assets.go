@@ -5,6 +5,7 @@ const (
 	HeaderAr     = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/recharge_popup/migrated/newcomer_2022081102/header/header_ar.png"
 	HeaderEn     = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/recharge_popup/migrated/newcomer_2022081102/header/header_en.png"
 	HeaderEs     = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/recharge_popup/migrated/newcomer_2022081102/header/header_es.png"
+	HeaderEsCoin = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/recharge_popup/migrated/newcomer_2022081102/header/header_es_coin.png"
 	HeaderId     = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/recharge_popup/migrated/newcomer_2022081102/header/header_id.png"
 	HeaderPt     = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/recharge_popup/migrated/newcomer_2022081102/header/header_pt.png"
 	HeaderPtCoin = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/recharge_popup/migrated/newcomer_2022081102/header/header_pt_coin.png"

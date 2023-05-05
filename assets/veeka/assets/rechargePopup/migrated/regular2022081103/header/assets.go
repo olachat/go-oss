@@ -4,6 +4,7 @@ package oss
 const (
 	HeaderEn     = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/recharge_popup/migrated/regular_2022081103/header/header_en.webp"
 	HeaderEs     = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/recharge_popup/migrated/regular_2022081103/header/header_es.webp"
+	HeaderEsCoin = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/recharge_popup/migrated/regular_2022081103/header/header_es_coin.webp"
 	HeaderId     = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/recharge_popup/migrated/regular_2022081103/header/header_id.webp"
 	HeaderPt     = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/recharge_popup/migrated/regular_2022081103/header/header_pt.webp"
 	HeaderPtCoin = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/recharge_popup/migrated/regular_2022081103/header/header_pt_coin.webp"
