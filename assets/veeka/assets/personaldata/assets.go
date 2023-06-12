@@ -8,5 +8,6 @@ const (
 	ProposeListBg               = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/personaldata/propose_list_bg.webp"
 	PtProfileEditAudio          = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/personaldata/pt_profile_edit_audio.svg"
 	PtProfileEditAudioAnimation = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/personaldata/pt_profile_edit_audio_animation.webp"
+	RankItemStar                = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/personaldata/rank_item_star.webp"
 	RingSelectBgTop             = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/personaldata/ring_select_bg_top.png"
 )
