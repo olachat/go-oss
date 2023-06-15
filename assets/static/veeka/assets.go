@@ -12,6 +12,7 @@ const (
 	FamilyHost2                       = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/family_host2.png"
 	FamilyHostIcon                    = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/family_host_icon.png"
 	FamilyHostIcon2                   = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/family_host_icon2.png"
+	FamilyOpenScreen                  = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/family_open_screen.png"
 	GuessQueue                        = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/guess-queue.png"
 	Guess                             = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/guess.png"
 	HostIcon                          = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/host_icon.png"
