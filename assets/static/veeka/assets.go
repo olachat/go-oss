@@ -21,6 +21,7 @@ const (
 	Ktv                               = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/ktv.png"
 	KtvNew                            = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/ktv_new.png"
 	Listensong                        = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/listensong.png"
+	LotteryAgain                      = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/lottery_again.png"
 	Majority                          = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/majority.png"
 	NewFamilyHostIcon                 = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/new_family_host_icon.png"
 	NewHostIcon                       = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/new_host_icon.png"
