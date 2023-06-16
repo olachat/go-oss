@@ -12,4 +12,5 @@ const (
 	Type3Header        = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/recharge_popup/type3_header.webp"
 	Type3HeaderCoin    = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/recharge_popup/type3_header_coin.webp"
 	Type3OldGiftIconBG = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/recharge_popup/type3_old_gift_icon_BG.webp"
+	Type4Banner        = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/recharge_popup/type4_banner.webp"
 )
