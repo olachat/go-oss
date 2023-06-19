@@ -2,6 +2,7 @@
 package oss
 
 const (
+	LotteryBanner      = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/recharge_popup/lottery_banner.webp"
 	Type1Banner        = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/recharge_popup/type1_banner.webp"
 	Type1Header        = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/recharge_popup/type1_header.webp"
 	Type1OldGiftIconBG = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/recharge_popup/type1_old_gift_icon_BG.webp"
