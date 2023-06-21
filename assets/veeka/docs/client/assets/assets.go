@@ -4,4 +4,5 @@ package oss
 const (
 	CopyFlutterDiff  = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/docs/client/assets/copy_flutter_diff.png"
 	PasteFlutterDiff = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/docs/client/assets/paste_flutter_diff.png"
+	RunVsCode        = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/docs/client/assets/run_vs_code.png"
 )
