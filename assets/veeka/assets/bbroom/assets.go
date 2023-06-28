@@ -71,6 +71,7 @@ const (
 	MsgPos1                     = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/msg_pos_1.webp"
 	MsgPos2                     = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/msg_pos_2.webp"
 	MsgPos3                     = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/msg_pos_3.webp"
+	NameGiftPavilionBg          = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/name_gift_pavilion_bg.png"
 	NamingBgAnim                = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/naming_bg_anim.webp"
 	RollDice                    = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/roll_dice.webp"
 	RoomLiked                   = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/room_liked.webp"
