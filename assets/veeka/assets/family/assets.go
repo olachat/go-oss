@@ -2,13 +2,13 @@
 package oss
 
 const (
-	FamilyCelebrityTagAr   = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/family/family_celebrity_tag_ar.png"
-	FamilyCelebrityTagEn   = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/family/family_celebrity_tag_en.png"
-	FamilyCelebrityTagEs   = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/family/family_celebrity_tag_es.png"
-	FamilyCelebrityTagId   = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/family/family_celebrity_tag_id.png"
-	FamilyCelebrityTagPt   = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/family/family_celebrity_tag_pt.png"
-	FamilyCelebrityTagTh   = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/family/family_celebrity_tag_th.png"
-	FamilyCelebrityTagVi   = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/family/family_celebrity_tag_vi.png"
-	FamilyCelebrityTagZhCn = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/family/family_celebrity_tag_zh_cn.png"
-	FamilyCelebrityTagZhTw = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/family/family_celebrity_tag_zh_tw.png"
+	FamilyCelebrityLabelAr   = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/family/family_celebrity_label_ar.png"
+	FamilyCelebrityLabelEn   = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/family/family_celebrity_label_en.png"
+	FamilyCelebrityLabelEs   = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/family/family_celebrity_label_es.png"
+	FamilyCelebrityLabelId   = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/family/family_celebrity_label_id.png"
+	FamilyCelebrityLabelPt   = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/family/family_celebrity_label_pt.png"
+	FamilyCelebrityLabelTh   = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/family/family_celebrity_label_th.png"
+	FamilyCelebrityLabelVi   = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/family/family_celebrity_label_vi.png"
+	FamilyCelebrityLabelZhCn = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/family/family_celebrity_label_zh_cn.png"
+	FamilyCelebrityLabelZhTw = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/family/family_celebrity_label_zh_tw.png"
 )
