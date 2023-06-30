@@ -7,6 +7,8 @@ const (
 	CplinkOption      = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/new_options_icon/cplink_option.png"
 	GameBig           = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/new_options_icon/game_big.png"
 	GatheringBig      = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/new_options_icon/gathering_big.png"
+	GatheringBigV1    = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/new_options_icon/gathering_big_v1.png"
+	GatheringOption   = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/new_options_icon/gathering_option.png"
 	GatheringOptionV1 = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/new_options_icon/gathering_option_v1.png"
 	GuessVeeka        = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/new_options_icon/guess_veeka.png"
 	KtvBig            = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/new_options_icon/ktv_big.png"
