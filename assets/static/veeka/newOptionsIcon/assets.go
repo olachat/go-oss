@@ -3,6 +3,8 @@ package oss
 
 const (
 	AccompanyBig      = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/new_options_icon/accompany_big.png"
+	CplinkBig         = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/new_options_icon/cplink_big.png"
+	CplinkOption      = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/new_options_icon/cplink_option.png"
 	GameBig           = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/new_options_icon/game_big.png"
 	GatheringBig      = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/new_options_icon/gathering_big.png"
 	GatheringOptionV1 = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/new_options_icon/gathering_option_v1.png"
