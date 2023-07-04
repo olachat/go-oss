@@ -11,4 +11,11 @@ const (
 	FamilyCelebrityLabelVi   = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/family/family_celebrity_label_vi.png"
 	FamilyCelebrityLabelZhCn = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/family/family_celebrity_label_zh_cn.png"
 	FamilyCelebrityLabelZhTw = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/family/family_celebrity_label_zh_tw.png"
+	FamilyLevel1             = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/family/family_level_1.png"
+	FamilyLevel2             = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/family/family_level_2.png"
+	FamilyLevel3             = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/family/family_level_3.png"
+	FamilyLevel4             = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/family/family_level_4.png"
+	FamilyLevel5             = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/family/family_level_5.png"
+	FamilyLevel6             = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/family/family_level_6.png"
+	FamilyLevel7             = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/family/family_level_7.png"
 )
