@@ -177,7 +177,7 @@ const (
 	FortuneTellerDiceUnselected                  = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/fortune_teller_dice_unselected.webp"
 	FortuneTellerTarotOneCard                    = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/fortune_teller_tarot_one_card.webp"
 	FortuneTellerTarotSelected                   = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/fortune_teller_tarot_selected.webp"
-	FortuneTellerTarotThreeCard                  = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/fortune_teller_tarot_three_card.webp"
+	FortuneTellerTarotThreeCardNew               = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/fortune_teller_tarot_three_card_new.webp"
 	FortuneTellerTarotUnselected                 = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/fortune_teller_tarot_unselected.webp"
 	FrameBestieEnPng                             = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/frame_bestie_en.png"
 	FrameBestieEnWebp                            = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/frame_bestie_en.webp"
