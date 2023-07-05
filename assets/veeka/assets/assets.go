@@ -152,7 +152,6 @@ const (
 	FamilyLevelBanner7                           = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/family_level_banner_7.png"
 	FamilyRecruitHeaderBg                        = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/family_recruit_header_bg.png"
 	FamilyRulesQ1                                = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/family_rules_q1.webp"
-	FamilyRulesQ11                               = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/family_rules_q1_1.webp"
 	FamilyRulesQ11Ar                             = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/family_rules_q1_1_ar.webp"
 	FamilyRulesQ12                               = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/family_rules_q1_2.webp"
 	FamilyRulesQ12Ar                             = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/family_rules_q1_2_ar.webp"
