@@ -73,6 +73,7 @@ const (
 	MsgPos3                     = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/msg_pos_3.webp"
 	NameGiftDesc0               = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/name_gift_desc_0.png"
 	NameGiftDesc0Cn             = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/name_gift_desc_0_cn.png"
+	NameGiftDesc0CnNew          = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/name_gift_desc_0_cn_new.png"
 	NameGiftDesc1               = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/name_gift_desc_1.png"
 	NameGiftDesc1Cn             = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/name_gift_desc_1_cn.png"
 	NameGiftDesc2               = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/name_gift_desc_2.png"
