@@ -5,6 +5,7 @@ const (
 	Concert          = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_perks_icon/concert.png"
 	CpFriendMic      = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_perks_icon/cp_friend_mic.png"
 	FancyAnimation   = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_perks_icon/fancy_animation.png"
+	FlyScreenV1      = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_perks_icon/fly_screenV1.png"
 	RoomThemeImmerse = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_perks_icon/room_theme_immerse.png"
 	VideoRoomSticker = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_perks_icon/video_room_sticker.png"
 )
