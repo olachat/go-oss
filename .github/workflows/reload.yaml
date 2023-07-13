@@ -46,5 +46,5 @@ jobs:
             echo "no changes";
           else
             git commit -m "updated assets";
-            git push;
+            git push https://${{ secrets.GITHUB_TOKEN }}@github.com/olachat/go-oss.git;
           fi;
