@@ -80,6 +80,7 @@ const (
 	NameGiftDesc2Cn             = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/name_gift_desc_2_cn.png"
 	NameGiftDesc3               = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/name_gift_desc_3.png"
 	NameGiftDesc3Cn             = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/name_gift_desc_3_cn.png"
+	NameGiftDesc3CnNew          = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/name_gift_desc_3_cn_new.png"
 	NameGiftPavilionBg          = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/name_gift_pavilion_bg.png"
 	NamingBgAnim                = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/naming_bg_anim.webp"
 	RollDice                    = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/roll_dice.webp"
