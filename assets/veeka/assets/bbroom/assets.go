@@ -84,6 +84,8 @@ const (
 	NameGiftPavilionBg          = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/name_gift_pavilion_bg.png"
 	NamingBgAnim                = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/naming_bg_anim.webp"
 	RollDice                    = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/roll_dice.webp"
+	RoomLevelUp6                = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/room_level_up_6.png"
+	RoomLevelUp7                = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/room_level_up_7.png"
 	RoomLiked                   = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/room_liked.webp"
 	RoomLivePkPin               = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/room_live_pk_pin.webp"
 	RoomLivePkWin               = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/room_live_pk_win.webp"
