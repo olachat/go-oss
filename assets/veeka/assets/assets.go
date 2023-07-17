@@ -417,6 +417,7 @@ const (
 	NewPostLikeComment                           = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/new_post_like_comment.png"
 	NewRankingblindbox                           = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/new_rankingblindbox.webp"
 	NewRankingfamily                             = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/new_rankingfamily.webp"
+	NewRankingimpressgift                        = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/new_rankingimpressgift.webp"
 	NewRankingintimacy                           = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/new_rankingintimacy.webp"
 	NewRankingpopularity                         = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/new_rankingpopularity.webp"
 	NewRankingroomgift                           = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/new_rankingroomgift.webp"
