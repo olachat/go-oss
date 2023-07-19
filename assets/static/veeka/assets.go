@@ -3,6 +3,11 @@ package oss
 
 const (
 	Accompany                         = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/accompany.png"
+	Box1                              = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/box_1.png"
+	Box2                              = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/box_2.png"
+	Box3                              = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/box_3.png"
+	Box4                              = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/box_4.png"
+	Box5                              = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/box_5.png"
 	Chat                              = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/chat.png"
 	CpRelationshipRoomBroadcastBanner = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/cp_relationship_room_broadcast_banner.webp"
 	DynamicHeaderDetail               = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/dynamic_header_detail.png"
