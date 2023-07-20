@@ -48,6 +48,8 @@ const (
 	BombExploded                                 = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bomb-exploded.webp"
 	BombNormal                                   = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bomb-normal.webp"
 	BombUserExploded                             = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bomb-user-exploded.webp"
+	BombCounterReversed                          = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bomb_counter_reversed.webp"
+	BombReversed                                 = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bomb_reversed.webp"
 	CatStage1                                    = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/cat_stage_1.webp"
 	CatStage1Skin1                               = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/cat_stage_1_skin_1.webp"
 	CatStage1Skin2                               = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/cat_stage_1_skin_2.webp"
