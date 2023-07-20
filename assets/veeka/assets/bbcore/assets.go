@@ -6,6 +6,8 @@ const (
 	IcNoPublishMoment      = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbcore/ic_no_publish_moment.webp"
 	NewUserPackGo          = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbcore/new_user_pack_go.png"
 	NewUserPackHeader      = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbcore/new_user_pack_header.png"
+	NewUserPackHeader0     = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbcore/new_user_pack_header_0.png"
+	NewUserPackHeader1     = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbcore/new_user_pack_header_1.png"
 	TboxFloateBannerLevel2 = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbcore/tbox_floate_banner_level_2.webp"
 	TboxFloateBannerLevel3 = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbcore/tbox_floate_banner_level_3.webp"
 )
