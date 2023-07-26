@@ -3,6 +3,7 @@ package oss
 
 const (
 	EggHuntDesignation55 = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/egg_hunt_event/egg_hunt_designation_55.png"
+	EggHuntDesignation70 = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/egg_hunt_event/egg_hunt_designation_70.png"
 	EggHuntShareAr       = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/egg_hunt_event/egg_hunt_share_ar.png"
 	EggHuntShareAr1      = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/egg_hunt_event/egg_hunt_share_ar_1.png"
 	EggHuntShareEn       = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/egg_hunt_event/egg_hunt_share_en.png"
