@@ -3,6 +3,7 @@ package oss
 
 const (
 	BackgroundAutumn        = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/pets/home/bg/background_autumn.webp"
+	BackgroundAutumn1       = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/pets/home/bg/background_autumn1.webp"
 	BackgroundBeach         = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/pets/home/bg/background_beach.webp"
 	BackgroundCastle        = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/pets/home/bg/background_castle.webp"
 	BackgroundCityStreet    = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/pets/home/bg/background_city_street.webp"
@@ -15,6 +16,7 @@ const (
 	BackgroundSchool        = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/pets/home/bg/background_school.webp"
 	BackgroundStarryNight   = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/pets/home/bg/background_starry_night.webp"
 	ThumbnailAutumn         = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/pets/home/bg/thumbnail_autumn.webp"
+	ThumbnailAutumn1        = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/pets/home/bg/thumbnail_autumn1.webp"
 	ThumbnailBeach          = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/pets/home/bg/thumbnail_beach.webp"
 	ThumbnailCastle         = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/pets/home/bg/thumbnail_castle.webp"
 	ThumbnailCityStreet     = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/pets/home/bg/thumbnail_city_street.webp"
