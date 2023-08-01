@@ -2,6 +2,7 @@
 package oss
 
 const (
+	K4843X1                           = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/%E5%9B%BE%E5%B1%82%20484@3x%20%281%29.png"
 	Accompany                         = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/accompany.png"
 	Box1                              = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/box_1.png"
 	Box2                              = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/box_2.png"
