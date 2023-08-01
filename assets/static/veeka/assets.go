@@ -33,6 +33,7 @@ const (
 	NewFamilyHostIcon                 = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/new_family_host_icon.png"
 	NewHostIcon                       = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/new_host_icon.png"
 	OnlineHiddenDetail                = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/online_hidden_detail.png"
+	Piece                             = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/piece.png"
 	SurpriseGiftHeader                = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/surprise_gift_header.webp"
 	Under                             = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/under.png"
 	Video                             = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/video.png"
