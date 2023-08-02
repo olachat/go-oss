@@ -4,6 +4,8 @@ package oss
 const (
 	IconAccompany   = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/match/icon_accompany.webp"
 	IconAccompany2  = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/match/icon_accompany2.webp"
+	IconBilliards   = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/match/icon_billiards.webp"
+	IconBilliards2  = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/match/icon_billiards2.webp"
 	IconChat        = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/match/icon_chat.webp"
 	IconChat2       = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/match/icon_chat2.webp"
 	IconKtv         = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/match/icon_ktv.webp"
