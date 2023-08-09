@@ -2,8 +2,12 @@
 package oss
 
 const (
-	Step0ZhCN = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/shake_bean/step0_zh_CN.webp"
-	Step1ZhCN = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/shake_bean/step1_zh_CN.webp"
-	Step2ZhCN = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/shake_bean/step2_zh_CN.webp"
-	Step3ZhCN = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/shake_bean/step3_zh_CN.webp"
+	GuideStep0ZhTW = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/shake_bean/guide_step0_zh_TW.webp"
+	GuideStep1ZhTW = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/shake_bean/guide_step1_zh_TW.webp"
+	GuideStep2ZhTW = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/shake_bean/guide_step2_zh_TW.webp"
+	GuideStep3ZhTW = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/shake_bean/guide_step3_zh_TW.webp"
+	Step0ZhCN      = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/shake_bean/step0_zh_CN.webp"
+	Step1ZhCN      = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/shake_bean/step1_zh_CN.webp"
+	Step2ZhCN      = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/shake_bean/step2_zh_CN.webp"
+	Step3ZhCN      = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/shake_bean/step3_zh_CN.webp"
 )
