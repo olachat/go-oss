@@ -13,6 +13,7 @@ const (
 	BgRedpackPreview            = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/bg_redpack_preview.webp"
 	BgRedpackPreviewCoin        = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/bg_redpack_preview_coin.webp"
 	BgRedpacketFloatingBanner   = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/bg_redpacket_floating_banner.webp"
+	BgRedpacketFloatingBannerV2 = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/bg_redpacket_floating_banner_v2.webp"
 	BombReverse                 = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/bomb_reverse.webp"
 	BombReverseAnimation        = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/bomb_reverse_animation.webp"
 	CashTaskBg                  = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/cash_task_bg.png"
