@@ -44,6 +44,8 @@ const (
 	GuessGameVsDynamic          = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/guess_game_vs_dynamic.webp"
 	GuessGameVsStatic           = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/guess_game_vs_static.png"
 	IcNewYearTop                = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/ic_new_year_top.webp"
+	IcRedpacketRainBg           = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/ic_redpacket_rain_bg.webp"
+	IcRedpacketTapBomb          = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/ic_redpacket_tap_bomb.webp"
 	IcTreasureOpen              = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/ic_treasure_open.png"
 	IcVehicleChairBg            = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/ic_vehicle_chair_bg.png"
 	IcVoiceCountDown1           = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/ic_voice_count_down_1.png"
