@@ -2,6 +2,10 @@
 package oss
 
 const (
+	New2Guide0Vi  = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/shake_bean/new2_guide0_vi.webp"
+	New2Guide1Vi  = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/shake_bean/new2_guide1_vi.webp"
+	New2Guide2Vi  = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/shake_bean/new2_guide2_vi.webp"
+	New2Guide3Vi  = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/shake_bean/new2_guide3_vi.webp"
 	NewGuide0Ar   = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/shake_bean/new_guide0_ar.webp"
 	NewGuide0Es   = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/shake_bean/new_guide0_es.webp"
 	NewGuide0Id   = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/shake_bean/new_guide0_id.webp"
