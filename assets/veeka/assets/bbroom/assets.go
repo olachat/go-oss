@@ -90,6 +90,7 @@ const (
 	NameGiftDisplayIsland1      = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/name_gift_display_island_1.png"
 	NameGiftDisplayIsland2      = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/name_gift_display_island_2.png"
 	NameGiftDisplayIsland3      = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/name_gift_display_island_3.png"
+	NameGiftPanelBg             = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/name_gift_panel_bg.png"
 	NameGiftPavilionBg          = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/name_gift_pavilion_bg.png"
 	NameGiftRankBg              = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/name_gift_rank_bg.png"
 	NameGiftRankBoardBg         = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/name_gift_rank_board_bg.png"
