@@ -5,6 +5,7 @@ const (
 	Ar2 = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/doubleseventh/ar.2.webp"
 	Ar  = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/doubleseventh/ar.webp"
 	Cn  = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/doubleseventh/cn.webp"
+	En  = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/doubleseventh/en.webp"
 	Es  = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/doubleseventh/es.webp"
 	Id  = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/doubleseventh/id.webp"
 	Pt  = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/doubleseventh/pt.webp"
