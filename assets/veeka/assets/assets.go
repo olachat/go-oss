@@ -685,6 +685,7 @@ const (
 	TitleKingSmall                               = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/title_king_small.webp"
 	TitleKnightSmall                             = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/title_knight_small.webp"
 	TitleMarquisSmall                            = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/title_marquis_small.webp"
+	TitleNewcomerVeeka                           = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/title_newcomer_veeka.webp"
 	TitlePrinceSmall                             = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/title_prince_small.webp"
 	TitleViscountSmall                           = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/title_viscount_small.webp"
 	VeekaHelpBird                                = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/veeka_help_bird.png"
