@@ -106,6 +106,7 @@ const (
 	NameGiftRuleDesc2Cn         = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/name_gift_rule_desc_2_cn.png"
 	NameGiftRuleDesc3           = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/name_gift_rule_desc_3.png"
 	NameGiftRuleDesc3Cn         = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/name_gift_rule_desc_3_cn.png"
+	NameGiftSplashScreenBg      = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/name_gift_splash_screen_bg.png"
 	NamingBgAnim                = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/naming_bg_anim.webp"
 	RollDice                    = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/roll_dice.webp"
 	RoomLevel6                  = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/room_level_6.png"
