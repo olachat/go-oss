@@ -2,7 +2,9 @@
 package oss
 
 const (
+	Bag                = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/profile/bag.png"
 	FireBg             = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/profile/fire_bg.webp"
+	Nobility           = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/profile/nobility.png"
 	PopularBackground0 = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/profile/popular_background_0.webp"
 	PopularBackground1 = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/profile/popular_background_1.webp"
 	PopularBackground2 = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/profile/popular_background_2.webp"
@@ -13,4 +15,6 @@ const (
 	PopularBackground7 = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/profile/popular_background_7.webp"
 	PopularBackground8 = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/profile/popular_background_8.webp"
 	PopularBackground9 = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/profile/popular_background_9.webp"
+	Shop               = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/profile/shop.png"
+	Vip                = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/profile/vip.png"
 )
