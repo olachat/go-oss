@@ -255,6 +255,7 @@ const (
 	HighLuckBgPng                                = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/high_luck_bg.png"
 	HighLuckBgWebp                               = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/high_luck_bg.webp"
 	HighLuckBgAr                                 = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/high_luck_bg_ar.png"
+	HomeTaskEntryAr                              = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/home_task_entry_ar.webp"
 	IcVeeka                                      = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/ic-veeka.png"
 	IcAddPng                                     = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/ic_add.png"
 	IcAddWebp                                    = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/ic_add.webp"
