@@ -3,4 +3,11 @@ package oss
 
 const (
 	README = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/act/permanent/README.md"
+	Ar     = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/act/permanent/ar.png"
+	Cn     = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/act/permanent/cn.png"
+	Es     = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/act/permanent/es.png"
+	Id     = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/act/permanent/id.png"
+	Pt     = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/act/permanent/pt.png"
+	Th     = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/act/permanent/th.png"
+	Vi     = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/act/permanent/vi.png"
 )
