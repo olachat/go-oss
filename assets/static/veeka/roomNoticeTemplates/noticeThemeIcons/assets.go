@@ -2,13 +2,13 @@
 package oss
 
 const (
-	AnonymousLetter = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates/notice_theme_icons/anonymous_letter.webp"
-	BirthdayParty   = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates/notice_theme_icons/birthday_party.webp"
-	FamilyGathering = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates/notice_theme_icons/family_gathering.webp"
-	GameParty       = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates/notice_theme_icons/game_party.webp"
-	Matchmaking     = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates/notice_theme_icons/matchmaking.webp"
-	NewbieParty     = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates/notice_theme_icons/newbie_party.webp"
-	Singing         = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates/notice_theme_icons/singing.webp"
-	Wedding         = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates/notice_theme_icons/wedding.webp"
-	WildParty       = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates/notice_theme_icons/wild_party.webp"
+	AnonymousLetter = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates/notice_theme_icons/anonymous_letter.webp"
+	BirthdayParty   = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates/notice_theme_icons/birthday_party.webp"
+	FamilyGathering = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates/notice_theme_icons/family_gathering.webp"
+	GameParty       = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates/notice_theme_icons/game_party.webp"
+	Matchmaking     = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates/notice_theme_icons/matchmaking.webp"
+	NewbieParty     = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates/notice_theme_icons/newbie_party.webp"
+	Singing         = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates/notice_theme_icons/singing.webp"
+	Wedding         = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates/notice_theme_icons/wedding.webp"
+	WildParty       = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates/notice_theme_icons/wild_party.webp"
 )

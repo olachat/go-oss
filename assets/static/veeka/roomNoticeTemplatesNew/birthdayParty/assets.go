@@ -2,9 +2,9 @@
 package oss
 
 const (
-	Birthdayparty1 = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates_new/birthday_party/birthdayparty1.png"
-	Birthdayparty2 = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates_new/birthday_party/birthdayparty2.png"
-	Birthdayparty3 = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates_new/birthday_party/birthdayparty3.png"
-	Birthdayparty4 = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates_new/birthday_party/birthdayparty4.png"
-	Birthdayparty5 = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates_new/birthday_party/birthdayparty5.png"
+	Birthdayparty1 = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates_new/birthday_party/birthdayparty1.png"
+	Birthdayparty2 = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates_new/birthday_party/birthdayparty2.png"
+	Birthdayparty3 = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates_new/birthday_party/birthdayparty3.png"
+	Birthdayparty4 = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates_new/birthday_party/birthdayparty4.png"
+	Birthdayparty5 = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates_new/birthday_party/birthdayparty5.png"
 )

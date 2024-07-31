@@ -2,7 +2,7 @@
 package oss
 
 const (
-	NewVeekaCoin  = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/mission1/new_veeka_coin.png"
-	VeekaGoldBean = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/mission1/veeka_gold_bean.png"
-	VeekaPtCoin   = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/mission1/veeka_pt_coin.png"
+	NewVeekaCoin  = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/mission1/new_veeka_coin.png"
+	VeekaGoldBean = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/mission1/veeka_gold_bean.png"
+	VeekaPtCoin   = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/mission1/veeka_pt_coin.png"
 )

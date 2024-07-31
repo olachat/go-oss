@@ -2,6 +2,6 @@
 package oss
 
 const (
-	K202StringV1Es = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/appres/202_string_v1_es.json"
-	K202StringV1Pt = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/appres/202_string_v1_pt.json"
+	K202StringV1Es = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/veeka/appres/202_string_v1_es.json"
+	K202StringV1Pt = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/veeka/appres/202_string_v1_pt.json"
 )

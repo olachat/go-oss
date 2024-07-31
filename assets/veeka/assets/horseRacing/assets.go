@@ -2,5 +2,5 @@
 package oss
 
 const (
-	RacingWinForegroundImg = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/horse_racing/racing_win_foreground_img.webp"
+	RacingWinForegroundImg = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/veeka/assets/horse_racing/racing_win_foreground_img.webp"
 )

@@ -2,10 +2,10 @@
 package oss
 
 const (
-	Matchmaking1 = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates/matchmaking/matchmaking1.webp"
-	Matchmaking2 = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates/matchmaking/matchmaking2.webp"
-	Matchmaking3 = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates/matchmaking/matchmaking3.webp"
-	Matchmaking4 = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates/matchmaking/matchmaking4.webp"
-	Matchmaking5 = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates/matchmaking/matchmaking5.webp"
-	Matchmaking6 = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates/matchmaking/matchmaking6.webp"
+	Matchmaking1 = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates/matchmaking/matchmaking1.webp"
+	Matchmaking2 = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates/matchmaking/matchmaking2.webp"
+	Matchmaking3 = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates/matchmaking/matchmaking3.webp"
+	Matchmaking4 = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates/matchmaking/matchmaking4.webp"
+	Matchmaking5 = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates/matchmaking/matchmaking5.webp"
+	Matchmaking6 = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates/matchmaking/matchmaking6.webp"
 )

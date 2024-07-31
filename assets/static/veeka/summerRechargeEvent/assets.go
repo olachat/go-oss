@@ -2,5 +2,5 @@
 package oss
 
 const (
-	RechargeKing = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/summer_recharge_event/recharge_king.png"
+	RechargeKing = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/summer_recharge_event/recharge_king.png"
 )

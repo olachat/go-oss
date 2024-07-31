@@ -2,9 +2,9 @@
 package oss
 
 const (
-	FamilyParty1 = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates/family_gathering_cn_id_es/FamilyParty1.webp"
-	FamilyParty3 = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates/family_gathering_cn_id_es/FamilyParty3.webp"
-	FamilyParty4 = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates/family_gathering_cn_id_es/FamilyParty4.webp"
-	FamilyParty5 = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates/family_gathering_cn_id_es/FamilyParty5.webp"
-	FamilyParty6 = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates/family_gathering_cn_id_es/FamilyParty6.webp"
+	FamilyParty1 = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates/family_gathering_cn_id_es/FamilyParty1.webp"
+	FamilyParty3 = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates/family_gathering_cn_id_es/FamilyParty3.webp"
+	FamilyParty4 = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates/family_gathering_cn_id_es/FamilyParty4.webp"
+	FamilyParty5 = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates/family_gathering_cn_id_es/FamilyParty5.webp"
+	FamilyParty6 = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates/family_gathering_cn_id_es/FamilyParty6.webp"
 )

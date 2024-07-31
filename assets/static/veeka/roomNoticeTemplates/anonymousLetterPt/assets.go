@@ -2,8 +2,8 @@
 package oss
 
 const (
-	Anonymousletter1 = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates/anonymous_letter_pt/anonymousletter1.webp"
-	Anonymousletter2 = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates/anonymous_letter_pt/anonymousletter2.webp"
-	Anonymousletter3 = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates/anonymous_letter_pt/anonymousletter3.webp"
-	Anonymousletter4 = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates/anonymous_letter_pt/anonymousletter4.webp"
+	Anonymousletter1 = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates/anonymous_letter_pt/anonymousletter1.webp"
+	Anonymousletter2 = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates/anonymous_letter_pt/anonymousletter2.webp"
+	Anonymousletter3 = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates/anonymous_letter_pt/anonymousletter3.webp"
+	Anonymousletter4 = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates/anonymous_letter_pt/anonymousletter4.webp"
 )

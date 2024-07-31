@@ -2,9 +2,9 @@
 package oss
 
 const (
-	Wildparty1 = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates/wild_party/wildparty1.webp"
-	Wildparty2 = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates/wild_party/wildparty2.webp"
-	Wildparty3 = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates/wild_party/wildparty3.webp"
-	Wildparty4 = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates/wild_party/wildparty4.webp"
-	Wildparty5 = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates/wild_party/wildparty5.webp"
+	Wildparty1 = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates/wild_party/wildparty1.webp"
+	Wildparty2 = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates/wild_party/wildparty2.webp"
+	Wildparty3 = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates/wild_party/wildparty3.webp"
+	Wildparty4 = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates/wild_party/wildparty4.webp"
+	Wildparty5 = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates/wild_party/wildparty5.webp"
 )

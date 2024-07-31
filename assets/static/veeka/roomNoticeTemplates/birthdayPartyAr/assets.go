@@ -2,7 +2,7 @@
 package oss
 
 const (
-	BirthdayAr1 = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates/birthday_party_ar/birthday_ar1.webp"
-	BirthdayAr2 = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates/birthday_party_ar/birthday_ar2.webp"
-	BirthdayAr3 = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates/birthday_party_ar/birthday_ar3.webp"
+	BirthdayAr1 = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates/birthday_party_ar/birthday_ar1.webp"
+	BirthdayAr2 = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates/birthday_party_ar/birthday_ar2.webp"
+	BirthdayAr3 = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates/birthday_party_ar/birthday_ar3.webp"
 )

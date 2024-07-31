@@ -2,13 +2,13 @@
 package oss
 
 const (
-	HeaderAr   = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/recharge_popup/migrated/newcomer_gift/header/header_ar.webp"
-	HeaderEn   = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/recharge_popup/migrated/newcomer_gift/header/header_en.webp"
-	HeaderEs   = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/recharge_popup/migrated/newcomer_gift/header/header_es.webp"
-	HeaderId   = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/recharge_popup/migrated/newcomer_gift/header/header_id.webp"
-	HeaderPt   = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/recharge_popup/migrated/newcomer_gift/header/header_pt.webp"
-	HeaderTh   = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/recharge_popup/migrated/newcomer_gift/header/header_th.webp"
-	HeaderVi   = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/recharge_popup/migrated/newcomer_gift/header/header_vi.webp"
-	HeaderZhCn = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/recharge_popup/migrated/newcomer_gift/header/header_zh_cn.webp"
-	HeaderZhTw = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/recharge_popup/migrated/newcomer_gift/header/header_zh_tw.webp"
+	HeaderAr   = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/veeka/assets/recharge_popup/migrated/newcomer_gift/header/header_ar.webp"
+	HeaderEn   = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/veeka/assets/recharge_popup/migrated/newcomer_gift/header/header_en.webp"
+	HeaderEs   = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/veeka/assets/recharge_popup/migrated/newcomer_gift/header/header_es.webp"
+	HeaderId   = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/veeka/assets/recharge_popup/migrated/newcomer_gift/header/header_id.webp"
+	HeaderPt   = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/veeka/assets/recharge_popup/migrated/newcomer_gift/header/header_pt.webp"
+	HeaderTh   = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/veeka/assets/recharge_popup/migrated/newcomer_gift/header/header_th.webp"
+	HeaderVi   = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/veeka/assets/recharge_popup/migrated/newcomer_gift/header/header_vi.webp"
+	HeaderZhCn = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/veeka/assets/recharge_popup/migrated/newcomer_gift/header/header_zh_cn.webp"
+	HeaderZhTw = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/veeka/assets/recharge_popup/migrated/newcomer_gift/header/header_zh_tw.webp"
 )

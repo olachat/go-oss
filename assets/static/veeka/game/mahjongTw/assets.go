@@ -2,14 +2,14 @@
 package oss
 
 const (
-	AbstractIcon = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/game/mahjong-tw/abstract_icon.png"
-	AcuteIcon    = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/game/mahjong-tw/acute_icon.png"
-	BigIcon      = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/game/mahjong-tw/big_icon.png"
-	GameIcon     = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/game/mahjong-tw/game_icon.png"
-	HomeIcon     = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/game/mahjong-tw/home_icon.png"
-	NewIcon      = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/game/mahjong-tw/new_icon.png"
-	OptionIcon   = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/game/mahjong-tw/option_icon.png"
-	SmallIcon    = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/game/mahjong-tw/small_icon.png"
-	TagIcon      = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/game/mahjong-tw/tag_icon.png"
-	TypeIcon     = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/game/mahjong-tw/type_icon.png"
+	AbstractIcon = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/game/mahjong-tw/abstract_icon.png"
+	AcuteIcon    = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/game/mahjong-tw/acute_icon.png"
+	BigIcon      = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/game/mahjong-tw/big_icon.png"
+	GameIcon     = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/game/mahjong-tw/game_icon.png"
+	HomeIcon     = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/game/mahjong-tw/home_icon.png"
+	NewIcon      = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/game/mahjong-tw/new_icon.png"
+	OptionIcon   = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/game/mahjong-tw/option_icon.png"
+	SmallIcon    = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/game/mahjong-tw/small_icon.png"
+	TagIcon      = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/game/mahjong-tw/tag_icon.png"
+	TypeIcon     = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/game/mahjong-tw/type_icon.png"
 )

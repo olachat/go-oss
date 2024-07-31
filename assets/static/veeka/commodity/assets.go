@@ -2,5 +2,5 @@
 package oss
 
 const (
-	C23082318133662 = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/commodity/c23082318133662.png"
+	C23082318133662 = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/commodity/c23082318133662.png"
 )

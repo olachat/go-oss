@@ -2,5 +2,5 @@
 package oss
 
 const (
-	GiftIconBG = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/recharge_popup/migrated/regular_2022081103/gift_icon_BG.webp"
+	GiftIconBG = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/veeka/assets/recharge_popup/migrated/regular_2022081103/gift_icon_BG.webp"
 )

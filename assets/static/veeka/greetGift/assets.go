@@ -2,6 +2,6 @@
 package oss
 
 const (
-	Chatbg = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/greet_gift/chatbg.png"
-	Rose   = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/greet_gift/rose.png"
+	Chatbg = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/greet_gift/chatbg.png"
+	Rose   = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/greet_gift/rose.png"
 )

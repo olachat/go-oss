@@ -2,11 +2,11 @@
 package oss
 
 const (
-	Ar = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/act/candy/ar.png"
-	Cn = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/act/candy/cn.png"
-	Es = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/act/candy/es.png"
-	Id = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/act/candy/id.png"
-	Pt = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/act/candy/pt.png"
-	Th = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/act/candy/th.png"
-	Vi = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/act/candy/vi.png"
+	Ar = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/act/candy/ar.png"
+	Cn = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/act/candy/cn.png"
+	Es = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/act/candy/es.png"
+	Id = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/act/candy/id.png"
+	Pt = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/act/candy/pt.png"
+	Th = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/act/candy/th.png"
+	Vi = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/act/candy/vi.png"
 )

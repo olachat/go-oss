@@ -2,12 +2,12 @@
 package oss
 
 const (
-	MoneyRabbitBig  = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/red_packet_rush/money_rabbit_big.png"
-	MoneyRabbitMany = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/red_packet_rush/money_rabbit_many.png"
-	RabbitDelegate  = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/red_packet_rush/rabbit_delegate.png"
-	RabbitJili      = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/red_packet_rush/rabbit_jili.png"
-	RabbitOpen      = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/red_packet_rush/rabbit_open.png"
-	RabbitStrong    = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/red_packet_rush/rabbit_strong.png"
-	SpendMoney      = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/red_packet_rush/spend_money.png"
-	SuddenRich      = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/red_packet_rush/sudden_rich.png"
+	MoneyRabbitBig  = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/red_packet_rush/money_rabbit_big.png"
+	MoneyRabbitMany = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/red_packet_rush/money_rabbit_many.png"
+	RabbitDelegate  = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/red_packet_rush/rabbit_delegate.png"
+	RabbitJili      = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/red_packet_rush/rabbit_jili.png"
+	RabbitOpen      = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/red_packet_rush/rabbit_open.png"
+	RabbitStrong    = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/red_packet_rush/rabbit_strong.png"
+	SpendMoney      = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/red_packet_rush/spend_money.png"
+	SuddenRich      = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/red_packet_rush/sudden_rich.png"
 )

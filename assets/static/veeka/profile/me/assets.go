@@ -2,8 +2,8 @@
 package oss
 
 const (
-	IcBackpack2X = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/profile/me/ic_backpack@2x.png"
-	IcNobility2X = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/profile/me/ic_nobility@2x.png"
-	IcShop2X     = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/profile/me/ic_shop@2x.png"
-	IcVip2X      = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/profile/me/ic_vip@2x.png"
+	IcBackpack2X = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/profile/me/ic_backpack@2x.png"
+	IcNobility2X = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/profile/me/ic_nobility@2x.png"
+	IcShop2X     = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/profile/me/ic_shop@2x.png"
+	IcVip2X      = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/profile/me/ic_vip@2x.png"
 )

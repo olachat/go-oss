@@ -2,6 +2,6 @@
 package oss
 
 const (
-	SoundPairFail    = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/blind_date/sound_pair_fail.mp3"
-	SoundPairSuccess = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/blind_date/sound_pair_success.mp3"
+	SoundPairFail    = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/blind_date/sound_pair_fail.mp3"
+	SoundPairSuccess = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/veeka/assets/bbroom/blind_date/sound_pair_success.mp3"
 )

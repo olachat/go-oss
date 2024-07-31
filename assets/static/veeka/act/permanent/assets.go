@@ -2,12 +2,12 @@
 package oss
 
 const (
-	README = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/act/permanent/README.md"
-	Ar     = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/act/permanent/ar.png"
-	Cn     = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/act/permanent/cn.png"
-	Es     = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/act/permanent/es.png"
-	Id     = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/act/permanent/id.png"
-	Pt     = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/act/permanent/pt.png"
-	Th     = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/act/permanent/th.png"
-	Vi     = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/act/permanent/vi.png"
+	README = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/act/permanent/README.md"
+	Ar     = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/act/permanent/ar.png"
+	Cn     = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/act/permanent/cn.png"
+	Es     = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/act/permanent/es.png"
+	Id     = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/act/permanent/id.png"
+	Pt     = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/act/permanent/pt.png"
+	Th     = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/act/permanent/th.png"
+	Vi     = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/act/permanent/vi.png"
 )

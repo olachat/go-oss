@@ -2,15 +2,15 @@
 package oss
 
 const (
-	HeaderAr     = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/recharge_popup/migrated/newcomer_2022081102/header/header_ar.png"
-	HeaderEn     = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/recharge_popup/migrated/newcomer_2022081102/header/header_en.png"
-	HeaderEs     = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/recharge_popup/migrated/newcomer_2022081102/header/header_es.png"
-	HeaderEsCoin = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/recharge_popup/migrated/newcomer_2022081102/header/header_es_coin.png"
-	HeaderId     = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/recharge_popup/migrated/newcomer_2022081102/header/header_id.png"
-	HeaderPt     = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/recharge_popup/migrated/newcomer_2022081102/header/header_pt.png"
-	HeaderPtCoin = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/recharge_popup/migrated/newcomer_2022081102/header/header_pt_coin.png"
-	HeaderTh     = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/recharge_popup/migrated/newcomer_2022081102/header/header_th.png"
-	HeaderVi     = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/recharge_popup/migrated/newcomer_2022081102/header/header_vi.png"
-	HeaderZhCn   = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/recharge_popup/migrated/newcomer_2022081102/header/header_zh_cn.png"
-	HeaderZhTw   = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/recharge_popup/migrated/newcomer_2022081102/header/header_zh_tw.png"
+	HeaderAr     = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/veeka/assets/recharge_popup/migrated/newcomer_2022081102/header/header_ar.png"
+	HeaderEn     = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/veeka/assets/recharge_popup/migrated/newcomer_2022081102/header/header_en.png"
+	HeaderEs     = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/veeka/assets/recharge_popup/migrated/newcomer_2022081102/header/header_es.png"
+	HeaderEsCoin = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/veeka/assets/recharge_popup/migrated/newcomer_2022081102/header/header_es_coin.png"
+	HeaderId     = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/veeka/assets/recharge_popup/migrated/newcomer_2022081102/header/header_id.png"
+	HeaderPt     = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/veeka/assets/recharge_popup/migrated/newcomer_2022081102/header/header_pt.png"
+	HeaderPtCoin = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/veeka/assets/recharge_popup/migrated/newcomer_2022081102/header/header_pt_coin.png"
+	HeaderTh     = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/veeka/assets/recharge_popup/migrated/newcomer_2022081102/header/header_th.png"
+	HeaderVi     = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/veeka/assets/recharge_popup/migrated/newcomer_2022081102/header/header_vi.png"
+	HeaderZhCn   = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/veeka/assets/recharge_popup/migrated/newcomer_2022081102/header/header_zh_cn.png"
+	HeaderZhTw   = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/veeka/assets/recharge_popup/migrated/newcomer_2022081102/header/header_zh_tw.png"
 )

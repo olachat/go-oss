@@ -2,9 +2,9 @@
 package oss
 
 const (
-	CnShare = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/act/war_of_king/cn_share.png"
-	EsShare = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/act/war_of_king/es_share.png"
-	IdShare = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/act/war_of_king/id_share.png"
-	PtShare = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/act/war_of_king/pt_share.png"
-	ThShare = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/act/war_of_king/th_share.png"
+	CnShare = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/act/war_of_king/cn_share.png"
+	EsShare = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/act/war_of_king/es_share.png"
+	IdShare = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/act/war_of_king/id_share.png"
+	PtShare = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/act/war_of_king/pt_share.png"
+	ThShare = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/act/war_of_king/th_share.png"
 )
