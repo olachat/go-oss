@@ -2,7 +2,7 @@
 package oss
 
 const (
-	GamepartyAr1 = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates/game_party_ar/gameparty_ar1.webp"
-	GamepartyAr2 = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates/game_party_ar/gameparty_ar2.webp"
-	GamepartyAr3 = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates/game_party_ar/gameparty_ar3.webp"
+	GamepartyAr1 = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates/game_party_ar/gameparty_ar1.webp"
+	GamepartyAr2 = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates/game_party_ar/gameparty_ar2.webp"
+	GamepartyAr3 = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates/game_party_ar/gameparty_ar3.webp"
 )

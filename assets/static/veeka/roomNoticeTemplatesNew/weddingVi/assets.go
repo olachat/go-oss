@@ -2,9 +2,9 @@
 package oss
 
 const (
-	WeddingSchedule1 = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates_new/wedding_vi/WeddingSchedule1.png"
-	WeddingSchedule2 = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates_new/wedding_vi/WeddingSchedule2.png"
-	WeddingSchedule4 = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates_new/wedding_vi/WeddingSchedule4.png"
-	WeddingSchedule5 = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates_new/wedding_vi/WeddingSchedule5.png"
-	WeddingSchedule6 = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates_new/wedding_vi/WeddingSchedule6.png"
+	WeddingSchedule1 = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates_new/wedding_vi/WeddingSchedule1.png"
+	WeddingSchedule2 = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates_new/wedding_vi/WeddingSchedule2.png"
+	WeddingSchedule4 = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates_new/wedding_vi/WeddingSchedule4.png"
+	WeddingSchedule5 = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates_new/wedding_vi/WeddingSchedule5.png"
+	WeddingSchedule6 = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates_new/wedding_vi/WeddingSchedule6.png"
 )

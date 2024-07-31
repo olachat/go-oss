@@ -2,8 +2,8 @@
 package oss
 
 const (
-	Birthdayparty1 = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates_new/birthday_party_th_vi/birthdayparty1.png"
-	Birthdayparty3 = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates_new/birthday_party_th_vi/birthdayparty3.png"
-	Birthdayparty4 = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates_new/birthday_party_th_vi/birthdayparty4.png"
-	Birthdayparty5 = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates_new/birthday_party_th_vi/birthdayparty5.png"
+	Birthdayparty1 = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates_new/birthday_party_th_vi/birthdayparty1.png"
+	Birthdayparty3 = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates_new/birthday_party_th_vi/birthdayparty3.png"
+	Birthdayparty4 = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates_new/birthday_party_th_vi/birthdayparty4.png"
+	Birthdayparty5 = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates_new/birthday_party_th_vi/birthdayparty5.png"
 )

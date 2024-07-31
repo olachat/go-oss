@@ -2,10 +2,10 @@
 package oss
 
 const (
-	Designation47 = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/super_wheel_event/designation_47.png"
-	ShareCn       = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/super_wheel_event/share_cn.jpg"
-	ShareEs       = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/super_wheel_event/share_es.jpg"
-	ShareId       = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/super_wheel_event/share_id.jpg"
-	SharePt       = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/super_wheel_event/share_pt.jpg"
-	ShareTh       = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/super_wheel_event/share_th.jpg"
+	Designation47 = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/super_wheel_event/designation_47.png"
+	ShareCn       = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/super_wheel_event/share_cn.jpg"
+	ShareEs       = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/super_wheel_event/share_es.jpg"
+	ShareId       = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/super_wheel_event/share_id.jpg"
+	SharePt       = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/super_wheel_event/share_pt.jpg"
+	ShareTh       = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/super_wheel_event/share_th.jpg"
 )

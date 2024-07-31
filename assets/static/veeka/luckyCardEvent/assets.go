@@ -2,5 +2,5 @@
 package oss
 
 const (
-	RamadanImImage = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/lucky_card_event/ramadan_im_image.png"
+	RamadanImImage = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/lucky_card_event/ramadan_im_image.png"
 )

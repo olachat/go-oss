@@ -2,6 +2,6 @@
 package oss
 
 const (
-	SingingAr1 = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates_new/singing_ar/singing_ar1.png"
-	SingingAr2 = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates_new/singing_ar/singing_ar2.png"
+	SingingAr1 = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates_new/singing_ar/singing_ar1.png"
+	SingingAr2 = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates_new/singing_ar/singing_ar2.png"
 )

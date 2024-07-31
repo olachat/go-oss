@@ -2,14 +2,14 @@
 package oss
 
 const (
-	Background = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_theme/Background.png"
-	Bear       = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_theme/Bear.png"
-	Hedhog     = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_theme/Hedhog.png"
-	Moose      = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_theme/Moose.png"
-	Rabbit     = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_theme/Rabbit.png"
-	Racoon     = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_theme/Racoon.png"
-	Snake      = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_theme/Snake.png"
-	Thumbnail  = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_theme/Thumbnail.png"
-	Turtle     = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_theme/Turtle.png"
-	Woodpecker = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_theme/Woodpecker.png"
+	Background = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_theme/Background.png"
+	Bear       = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_theme/Bear.png"
+	Hedhog     = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_theme/Hedhog.png"
+	Moose      = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_theme/Moose.png"
+	Rabbit     = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_theme/Rabbit.png"
+	Racoon     = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_theme/Racoon.png"
+	Snake      = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_theme/Snake.png"
+	Thumbnail  = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_theme/Thumbnail.png"
+	Turtle     = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_theme/Turtle.png"
+	Woodpecker = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_theme/Woodpecker.png"
 )

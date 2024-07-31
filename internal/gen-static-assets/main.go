@@ -274,6 +274,6 @@ func parseFlag() {
 // cd ~/Developer/testing/test-lib/internal/gen-static-assets;
 // go build -o gen-static;
 // cd ~/Developer/testing/test-lib;
-// internal/gen-static-assets/gen-static -i assets.json -b "https://partying.oss-ap-southeast-1.aliyuncs.com"
+// internal/gen-static-assets/gen-static -i assets.json -b "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com"
 
-// cd ~/Developer/testing/test-lib/internal/gen-static-assets; go build -o gen-static; cd ~/Developer/testing/test-lib; internal/gen-static-assets/gen-static -i assets.json -b "https://partying.oss-ap-southeast-1.aliyuncs.com"
+// cd ~/Developer/testing/test-lib/internal/gen-static-assets; go build -o gen-static; cd ~/Developer/testing/test-lib; internal/gen-static-assets/gen-static -i assets.json -b "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com"

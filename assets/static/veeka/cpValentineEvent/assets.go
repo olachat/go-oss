@@ -2,6 +2,6 @@
 package oss
 
 const (
-	CpRing       = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/cp_valentine_event/cp_ring.png"
-	TianZuoZhiHe = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/cp_valentine_event/tian_zuo_zhi_he.png"
+	CpRing       = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/cp_valentine_event/cp_ring.png"
+	TianZuoZhiHe = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/cp_valentine_event/tian_zuo_zhi_he.png"
 )

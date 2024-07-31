@@ -2,5 +2,5 @@
 package oss
 
 const (
-	GoldBean = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/recharge_popup/migrated/newcomer_2023010601/gold_bean/gold_bean.png"
+	GoldBean = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/veeka/assets/recharge_popup/migrated/newcomer_2023010601/gold_bean/gold_bean.png"
 )

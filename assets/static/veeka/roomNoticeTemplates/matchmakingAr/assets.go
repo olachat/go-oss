@@ -2,6 +2,6 @@
 package oss
 
 const (
-	MatchAr1 = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates/matchmaking_ar/match_ar1.webp"
-	MatchAr2 = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates/matchmaking_ar/match_ar2.webp"
+	MatchAr1 = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates/matchmaking_ar/match_ar1.webp"
+	MatchAr2 = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates/matchmaking_ar/match_ar2.webp"
 )

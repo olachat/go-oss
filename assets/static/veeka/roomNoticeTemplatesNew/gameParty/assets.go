@@ -2,10 +2,10 @@
 package oss
 
 const (
-	Gameparty1 = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates_new/game_party/gameparty1.png"
-	Gameparty2 = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates_new/game_party/gameparty2.png"
-	Gameparty3 = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates_new/game_party/gameparty3.png"
-	Gameparty4 = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates_new/game_party/gameparty4.png"
-	Gameparty5 = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates_new/game_party/gameparty5.png"
-	Gameparty6 = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates_new/game_party/gameparty6.png"
+	Gameparty1 = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates_new/game_party/gameparty1.png"
+	Gameparty2 = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates_new/game_party/gameparty2.png"
+	Gameparty3 = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates_new/game_party/gameparty3.png"
+	Gameparty4 = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates_new/game_party/gameparty4.png"
+	Gameparty5 = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates_new/game_party/gameparty5.png"
+	Gameparty6 = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates_new/game_party/gameparty6.png"
 )

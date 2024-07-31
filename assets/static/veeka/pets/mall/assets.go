@@ -2,5 +2,5 @@
 package oss
 
 const (
-	MallIcon = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/pets/mall/mall_icon.webp"
+	MallIcon = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/pets/mall/mall_icon.webp"
 )

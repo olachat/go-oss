@@ -2,10 +2,10 @@
 package oss
 
 const (
-	Singing2 = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates/singing_th_vi/Singing2.webp"
-	Singing3 = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates/singing_th_vi/Singing3.webp"
-	Singing4 = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates/singing_th_vi/Singing4.webp"
-	Singing5 = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates/singing_th_vi/Singing5.webp"
-	Singing6 = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates/singing_th_vi/Singing6.webp"
-	Singing8 = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates/singing_th_vi/Singing8.webp"
+	Singing2 = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates/singing_th_vi/Singing2.webp"
+	Singing3 = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates/singing_th_vi/Singing3.webp"
+	Singing4 = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates/singing_th_vi/Singing4.webp"
+	Singing5 = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates/singing_th_vi/Singing5.webp"
+	Singing6 = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates/singing_th_vi/Singing6.webp"
+	Singing8 = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_notice_templates/singing_th_vi/Singing8.webp"
 )

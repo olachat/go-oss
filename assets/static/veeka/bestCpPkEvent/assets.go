@@ -2,8 +2,8 @@
 package oss
 
 const (
-	BestCpDesignationCn = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/best_cp_pk_event/best_cp_designation_cn.png"
-	BestCpDesignationId = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/best_cp_pk_event/best_cp_designation_id.png"
-	BestCpDesignationPt = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/best_cp_pk_event/best_cp_designation_pt.png"
-	BestCpDesignationTh = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/best_cp_pk_event/best_cp_designation_th.png"
+	BestCpDesignationCn = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/best_cp_pk_event/best_cp_designation_cn.png"
+	BestCpDesignationId = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/best_cp_pk_event/best_cp_designation_id.png"
+	BestCpDesignationPt = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/best_cp_pk_event/best_cp_designation_pt.png"
+	BestCpDesignationTh = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/best_cp_pk_event/best_cp_designation_th.png"
 )

@@ -2,13 +2,13 @@
 package oss
 
 const (
-	InvitePrizeTopTitleAr   = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/profile/invite_prize/invite_prize_top_title_ar.png"
-	InvitePrizeTopTitleEn   = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/profile/invite_prize/invite_prize_top_title_en.png"
-	InvitePrizeTopTitleEs   = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/profile/invite_prize/invite_prize_top_title_es.png"
-	InvitePrizeTopTitleId   = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/profile/invite_prize/invite_prize_top_title_id.png"
-	InvitePrizeTopTitlePt   = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/profile/invite_prize/invite_prize_top_title_pt.png"
-	InvitePrizeTopTitleTh   = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/profile/invite_prize/invite_prize_top_title_th.png"
-	InvitePrizeTopTitleVi   = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/profile/invite_prize/invite_prize_top_title_vi.png"
-	InvitePrizeTopTitleZhCN = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/profile/invite_prize/invite_prize_top_title_zh_CN.png"
-	InvitePrizeTopTitleZhTW = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/profile/invite_prize/invite_prize_top_title_zh_TW.png"
+	InvitePrizeTopTitleAr   = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/veeka/assets/profile/invite_prize/invite_prize_top_title_ar.png"
+	InvitePrizeTopTitleEn   = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/veeka/assets/profile/invite_prize/invite_prize_top_title_en.png"
+	InvitePrizeTopTitleEs   = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/veeka/assets/profile/invite_prize/invite_prize_top_title_es.png"
+	InvitePrizeTopTitleId   = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/veeka/assets/profile/invite_prize/invite_prize_top_title_id.png"
+	InvitePrizeTopTitlePt   = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/veeka/assets/profile/invite_prize/invite_prize_top_title_pt.png"
+	InvitePrizeTopTitleTh   = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/veeka/assets/profile/invite_prize/invite_prize_top_title_th.png"
+	InvitePrizeTopTitleVi   = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/veeka/assets/profile/invite_prize/invite_prize_top_title_vi.png"
+	InvitePrizeTopTitleZhCN = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/veeka/assets/profile/invite_prize/invite_prize_top_title_zh_CN.png"
+	InvitePrizeTopTitleZhTW = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/veeka/assets/profile/invite_prize/invite_prize_top_title_zh_TW.png"
 )

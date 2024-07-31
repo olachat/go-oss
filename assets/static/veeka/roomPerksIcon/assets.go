@@ -2,11 +2,11 @@
 package oss
 
 const (
-	Concert          = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_perks_icon/concert.png"
-	CpFriendMic      = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_perks_icon/cp_friend_mic.png"
-	FancyAnimation   = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_perks_icon/fancy_animation.png"
-	FlyScreenV1      = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_perks_icon/fly_screenV1.png"
-	RoomLevelUpgrade = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_perks_icon/room_level_upgrade.webp"
-	RoomThemeImmerse = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_perks_icon/room_theme_immerse.png"
-	VideoRoomSticker = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_perks_icon/video_room_sticker.png"
+	Concert          = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_perks_icon/concert.png"
+	CpFriendMic      = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_perks_icon/cp_friend_mic.png"
+	FancyAnimation   = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_perks_icon/fancy_animation.png"
+	FlyScreenV1      = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_perks_icon/fly_screenV1.png"
+	RoomLevelUpgrade = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_perks_icon/room_level_upgrade.webp"
+	RoomThemeImmerse = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_perks_icon/room_theme_immerse.png"
+	VideoRoomSticker = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/room_perks_icon/video_room_sticker.png"
 )

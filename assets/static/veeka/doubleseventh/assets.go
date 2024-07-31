@@ -2,13 +2,13 @@
 package oss
 
 const (
-	Ar2 = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/doubleseventh/ar.2.webp"
-	Ar  = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/doubleseventh/ar.webp"
-	Cn  = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/doubleseventh/cn.webp"
-	En  = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/doubleseventh/en.webp"
-	Es  = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/doubleseventh/es.webp"
-	Id  = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/doubleseventh/id.webp"
-	Pt  = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/doubleseventh/pt.webp"
-	Th  = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/doubleseventh/th.webp"
-	Vi  = "https://partying.oss-ap-southeast-1.aliyuncs.com/static/veeka/doubleseventh/vi.webp"
+	Ar2 = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/doubleseventh/ar.2.webp"
+	Ar  = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/doubleseventh/ar.webp"
+	Cn  = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/doubleseventh/cn.webp"
+	En  = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/doubleseventh/en.webp"
+	Es  = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/doubleseventh/es.webp"
+	Id  = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/doubleseventh/id.webp"
+	Pt  = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/doubleseventh/pt.webp"
+	Th  = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/doubleseventh/th.webp"
+	Vi  = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/static/veeka/doubleseventh/vi.webp"
 )

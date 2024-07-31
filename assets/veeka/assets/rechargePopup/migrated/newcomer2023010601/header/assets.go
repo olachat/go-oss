@@ -2,5 +2,5 @@
 package oss
 
 const (
-	Header = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/recharge_popup/migrated/newcomer_2023010601/header/header.webp"
+	Header = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/veeka/assets/recharge_popup/migrated/newcomer_2023010601/header/header.webp"
 )

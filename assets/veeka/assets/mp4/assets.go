@@ -2,5 +2,5 @@
 package oss
 
 const (
-	FateGiftScenesAnim = "https://partying.oss-ap-southeast-1.aliyuncs.com/veeka/assets/mp4/fate_gift_scenes_anim.mp4"
+	FateGiftScenesAnim = "https://veeka-app-public.oss-ap-southeast-1.aliyuncs.com/veeka/assets/mp4/fate_gift_scenes_anim.mp4"
 )
